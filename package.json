@@ -3,5 +3,9 @@
   "version": "0.0.7",
   "description": "Display metrics. On /metrics. For etherpad. With swag.",
   "author": "Marcel Klehr <mklehr@gmx.net>",
-  "repository": "https://github.com/marcelklehr/ep_ether-o-meter.git"
+  "repository": "https://github.com/marcelklehr/ep_ether-o-meter.git",
+  "funding": {
+    "type": "individual",
+    "url": "http://etherpad.org/"
+  }
 }
