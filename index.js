@@ -7,4 +7,5 @@ exports.expressServer = function (hook, args, cb) {
   });
 
   args.app.use('/metrics/static', express.static(`${__dirname}/static`));
+  cb(false);
 };
